@@ -12,3 +12,4 @@
 3. ターミナルより`php artisan migrate`と`npm i && npm run build `を実行
 4. ブラウザを開き、WordPress-TranslatorのURLを入力し移動
 5. 自動英訳を開始／再開ボタンをクリックし実行
+<img width="1476" height="887" alt="image" src="https://github.com/user-attachments/assets/424e1414-40e8-44cf-b0df-adc96e447a83" />
